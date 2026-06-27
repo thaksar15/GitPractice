@@ -1,3 +1,7 @@
+
 Hello Git !
 This is my first Git repository.
 Edited from GitHub
+
+hello Git !!
+Learning Git is Fun !!!
